@@ -1,2 +1,0 @@
-# Theus
-script 
